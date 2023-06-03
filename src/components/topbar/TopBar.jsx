@@ -6,7 +6,7 @@ import NotificationsIcon from '@mui/icons-material/Notifications';
 
 const TopBar = () => {
     return (
-        <div className='topbarContainer h-12 w-full bg-blue-500 flex items-center sticky top-0'>
+        <div className='topbarContainer h-12 w-full bg-blue-600 flex items-center sticky top-0'>
             <div className="topbarLeft">
                 <span className="logo text-3xl ml-5 font-bold text-white cursor-pointer">Connect_App</span>
             </div>
